@@ -36,6 +36,7 @@
             android:layout_marginBottom="6dp"
             android:gravity="center"
             android:text="天气预报"
+            android:textColor="#fff"
             android:textSize="20sp" />
 
     </RelativeLayout>
